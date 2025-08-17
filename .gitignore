@@ -1,0 +1,14 @@
+# Foundry config
+.env
+foundry.toml
+
+# Foundry cache
+lib/
+cache/
+
+# Foundry output
+out/
+forge-artifacts/
+forge-std/
+
+
